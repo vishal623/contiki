@@ -1,0 +1,5 @@
+[21:28:47 - AWT-EventQueue-0] [Cooja.java:2865] [INFO] - External tools default settings: /external_tools_linux_64.config
+[21:28:47 - AWT-EventQueue-0] [Cooja.java:2895] [INFO] - External tools user settings: /root/.cooja.user.properties
+[21:28:50 - AWT-EventQueue-0] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[21:28:50 - AWT-EventQueue-0] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[21:29:07 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make border-router.sky TARGET=sky 
